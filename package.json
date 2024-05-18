@@ -1,0 +1,35 @@
+{
+  "name": "greg",
+  "version": "1.0.0",
+  "description": "grtehg",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "gre",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "@faker-js/faker": "^7.4.0",
+    "@iamtraction/google-translate": "^1.1.2",
+    "discord-api-types": "^0.37.8",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fs": "0.0.1-security",
+    "get-pixels": "^3.3.3",
+    "google": "^2.1.0",
+    "got": "^12.0.4",
+    "jsdom": "^19.0.0",
+    "mongoose": "^6.6.1",
+    "node-telegram-bot-api": "^0.59.0",
+    "prebuild-install": "^7.1.1",
+    "puppeteer": "^13.7.0",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.1.2",
+    "sharp": "^0.30.6",
+    "webpage": "^0.3.0"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.57.1"
+  }
+}
